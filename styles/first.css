@@ -36,7 +36,7 @@ img {
 
 .small {
     font-size: small;
-    margin-top: -2%;
+    margin-top: -1%;
 }
 
 @media (max-width: 1050px) {
@@ -48,5 +48,8 @@ img {
     }
     img {
         width: 95%;
+    }
+    .small {
+        margin-top: -2%;
     }
 }
